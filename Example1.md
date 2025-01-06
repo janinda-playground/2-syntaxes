@@ -21,4 +21,9 @@ This is bold and italic text
 *This is an italic text* \
 __This is still a Bold text__ \
 _This is still an italic text_ \
-***This is bold and italic***
+***This is bold and italic***  
+~~This is a strikethrough~~  
+<ins>This is an underline</ins>
+<hr>
+
+Visit [Google](http://google.lk)  
